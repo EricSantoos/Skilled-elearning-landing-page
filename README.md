@@ -35,7 +35,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [GIT](https://github.com/EricSantoos)
+- Website - [GIT HUB](https://github.com/EricSantoos)
 - Frontend Mentor - [@EricSantoos](https://www.frontendmentor.io/profile/EricSantoos)
 
 
